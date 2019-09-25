@@ -1,0 +1,16 @@
+h1 {
+    font-family: Microsoft Yahei, PingFang SC ;
+    color: #4285f4 ;}
+
+body{
+    background-color: rgba(60, 126, 95, 0.2);
+    font-size:14px;}
+
+a {
+    color:red;
+    font-size: 20px;
+    font-weight: 500 }
+
+cat {color: salmon;
+    font-size: 200%;
+    font-weight: bold;}
