@@ -16,16 +16,14 @@ a {
     font-size: 200%;
     font-weight: bold;}
 
-#tu {margin: 20px;
-    padding: 200px;
-    padding-top: 100px;
+#tu {
+    width: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #123456;}
 
-g {
+#a1 {
     font-size: 50px;
-    color:white;}
-
-#solo {
-    padding: 100px;
-    color: blueviolet;
-    padding-top: 100px;}
+    color:white;
+    text-align: center;}
