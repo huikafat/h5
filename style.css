@@ -5,14 +5,14 @@ h1 {
 body{
     background-color: rgba(60, 126, 95, 0.2);
     font-size:14px;
-    margin: 60px;}
+    margin: 50px;}
 
 a {
     color:red;
     font-size: 20px;
     font-weight: 500 }
 
-#che {color: rgb(24, 211, 86, 0.5);
+#che {color: rgba(0, 88, 37, 0.8);
     font-size: 200%;
     font-weight: bold;}
 
@@ -23,7 +23,7 @@ a {
     margin-right: auto;
     background-color: #123456;}
 
-#a1 {
+#solo {
     font-size: 50px;
     color:white;
     text-align: center;}
