@@ -5,7 +5,6 @@ h1 {
 body{
     background-color: rgba(60, 126, 95, 0.2);
     font-size:14px;
-    margin: 50px;
     text-align: center;}
 
 a {
@@ -13,16 +12,18 @@ a {
     font-size: 20px;
     font-weight: 500;}
 
-#che {color: rgba(0, 88, 37, 0.8);
-    font-size: 200%;
+#che {
+    color: rgba(0, 88, 37, 0.8);
+    font-size: 150%;
     font-weight: bold;}
 
 #tu {
-    width: 500px;
-    margin:auto;
+    width: auto;
+    margin-top: 20px;
+    padding: 50px;
     text-align: center;
     background-color: #123456;}
 
 #solo {
-    font-size: 50px;
+    font-size: 20px;
     color:white;}
