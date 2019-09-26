@@ -21,8 +21,11 @@ a {
     padding-top: 100px;
     background-color: #123456;}
 
-g {font-size: 50px;
-    color:white;
-padding-top: 100px;}
+g {
+    font-size: 50px;
+    color:white;}
 
-#solo {padding: 100px;}
+#solo {
+    padding: 100px;
+    color: blueviolet;
+    padding-top: 100px;}
