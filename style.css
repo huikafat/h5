@@ -1,29 +1,28 @@
 h1 {
-    font-family: Microsoft Yahei, PingFang SC ;
-    color: #4285f4 ;}
+    font-family: Microsoft Yahei, PingFang SC;
+    color: #4285f4;}
 
 body{
     background-color: rgba(60, 126, 95, 0.2);
     font-size:14px;
-    margin: 50px;}
+    margin: 50px;
+    text-align: center;}
 
 a {
     color:red;
     font-size: 20px;
-    font-weight: 500 }
+    font-weight: 500;}
 
 #che {color: rgba(0, 88, 37, 0.8);
     font-size: 200%;
     font-weight: bold;}
 
 #tu {
-    width: auto;
+    width: 500px;
+    margin:auto;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     background-color: #123456;}
 
 #solo {
     font-size: 50px;
-    color:white;
-    text-align: center;}
+    color:white;}
