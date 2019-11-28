@@ -41,4 +41,10 @@ a {
     border-radius: 50%;
     border-color: rgba(0, 88, 37, 0.1);
     border-width: 10px;
-    border-style: solid}
+    border-style: solid;
+}
+
+.loti
+{
+    padding: 50px;
+}
